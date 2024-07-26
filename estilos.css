@@ -5,3 +5,8 @@ p{
 #p2{
     font-size: larger;
 }
+
+.imagen{
+    border: 10px red solid ;
+    text-align: center;
+}
